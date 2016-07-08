@@ -1,18 +1,18 @@
 #Arduino Modbus Master RTU y Simulator Modbus Slave RTU
  Arduino Modbus Master in 5 minutes
  
- #Arduino MEGA 2560  R3
+#Arduino MEGA 2560  R3
  ![Portada](https://github.com/JhonControl/Arduino_Modbus_Master_in_5_minutes/blob/master/20160320_224435.jpg)
  
- # Display Oled  128 x 64 I2c
+# Display Oled  128 x 64 I2c
  
  ![Portada](https://github.com/JhonControl/Arduino_Modbus_Master_in_5_minutes/blob/master/20160320_215017.jpg)
  
- # Simulator Slave Registers
+# Simulator Slave Registers
  
  ![Portada](https://github.com/JhonControl/Arduino_Modbus_Master_in_5_minutes/blob/master/escritura%20de%20registros.jpg)
  
- #Architecture Arquitectura
+#Architecture Arquitectura
  
   ![Portada](https://github.com/JhonControl/Arduino_Modbus_Master_in_5_minutes/blob/master/Arduino%20Modbus%20-%20PC.jpg)
  
